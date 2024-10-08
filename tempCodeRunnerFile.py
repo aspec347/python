@@ -1,2 +1,6 @@
 print ('hi')
 print("tushar")
+print("hello")
+print ('hi')
+print("tushar")
+print("hello")
